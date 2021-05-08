@@ -1,4 +1,4 @@
-✔ Software Developer and Analyst with knowledge in .NET (C#, Visual Basic.NET), ASP.NET, Java, C, JavaScript, HTML, PHP, CSS and VBS. Operations with MySQL and SQL Server databases.
+✔ Junior Software Developer and Analyst with knowledge in .NET (C#, Visual Basic.NET), ASP.NET, Java, C, JavaScript, HTML, PHP, CSS and VBS. Operations with MySQL and SQL Server databases.
 
 ✔ Game Developer with knowledge in Unity and C# directed to games.
 
