@@ -1,2 +1,1 @@
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&layout=compact&langs_count=16&theme=dark">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/diegosparente/github-readme-stats)
