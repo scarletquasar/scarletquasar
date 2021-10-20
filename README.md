@@ -12,7 +12,7 @@ I'm a software engineer, solutions researcher, algorithms enthusiast and Open So
   
   **Currently i am contributing or have contributed mainly in these projects:**
   
-  | Project | Description | Language/Environment | Contribution
+  | Project | Description | Language(s) | Contribution
   | - | - | - | - |
   | <a href='https://github.com/EternalQuasar0206/git-grabber'>Git Grabber</a> | A fast and powerful Github API informations catcher | 🟢 C# | Programmer/Creator
   | <a href='https://github.com/EternalQuasar0206/htapps'>Htapps</a> | Web environment to develop Windows desktop apps | 🟢🟡 C#/JavaScript | Programmer/Creator
