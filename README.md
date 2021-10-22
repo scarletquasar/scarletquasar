@@ -14,12 +14,13 @@ I'm a software engineer, solutions researcher, algorithms enthusiast and Open So
   
   | Project | Description | Language(s) | Contribution
   | - | - | - | - |
-  | <a href='https://github.com/EternalQuasar0206/git-grabber'>Git Grabber</a> | A fast and powerful Github API informations catcher | 🟢 C# | Programmer/Creator
-  | <a href='https://github.com/EternalQuasar0206/htapps'>Htapps</a> | Web environment to develop Windows desktop apps | 🟢🟡 C#/JavaScript | Programmer/Creator
-  | <a href='https://github.com/EternalQuasar0206/cli-dotnet'>Cli.Net</a> | A template library to develop CLI apps in .NET | 🟢 C# | Programmer/Creator
-  | <a href='https://github.com/EternalQuasar0206/keybook.js'>keybook.js</a> | A simple library to manage the browser storage | 🟡 JavaScript | Programmer/Creator
-  | <a href='https://github.com/EternalQuasar0206/type-sanitizer'>Type Sanitizer</a> | Library created to easily sanitize and validate data | 🔵 TypeScript | Programmer/Creator
-  | <a href='https://github.com/SampaioLeal/destjs'>dest.js</a> | NestJS inspired framework for Deno | 🔵 TypeScript | Documentation/Dev Support
+  | <a href='https://github.com/EternalQuasar0206/git-grabber'>Git Grabber</a> | A fast and powerful Github API informations catcher | 🟢 C# | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/recursive-comparator'>Recursive Comp.</a> | Fast algorithm to compare two variables of any type | 🟡 JavaScript | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/htapps'>Htapps</a> | Web environment to develop Windows desktop apps | 🟢🟡 C#/JavaScript | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/cli-dotnet'>Cli.Net</a> | A template library to develop CLI apps in .NET | 🟢 C# | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/keybook.js'>keybook.js</a> | A simple library to manage the browser storage | 🟡 JavaScript | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/type-sanitizer'>Type Sanitizer</a> | Library created to easily sanitize and validate data | 🔵 TypeScript | Programmer/Creator |
+  | <a href='https://github.com/SampaioLeal/destjs'>dest.js</a> | NestJS inspired framework for Deno | 🔵 TypeScript | Documentation/Dev Support |
 </div>
 
 <br>
