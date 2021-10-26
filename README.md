@@ -21,11 +21,12 @@ I'm a software engineer, solutions researcher, algorithms enthusiast and Open So
   | <a href='https://github.com/EternalQuasar0206/type-sanitizer'>Type Sanitizer</a> | Library created to easily sanitize and validate data | 🔵 TypeScript | Programmer/Creator |
   | <a href='https://github.com/SampaioLeal/destjs'>dest.js</a> | NestJS inspired framework for Deno | 🔵 TypeScript | Documentation/Dev Support |
   
-  **Also check my algorithm projects:**
+  **Also check my algorithm/example projects:**
   
   | Project | Description | Language(s) | Contribution |
   | - | - | - | - |
   | <a href='https://github.com/EternalQuasar0206/recursive-comparator'>Recursive Comparator</a> | Fast optimized algorithm to compare two variables of any type | 🟡 JavaScript | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/asp-image-converter'>Asp Image Converter</a> | Rest API example for real-time image conversion from "base64" codes. | 🟢 C# | Programmer/Creator |
 </div>
 
 <br>
