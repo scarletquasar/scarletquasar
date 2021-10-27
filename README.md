@@ -23,9 +23,9 @@ I'm a software engineer, solutions researcher, algorithms enthusiast and Open So
   
   **Also check my algorithm/example projects:**
   
-  | Project | Description | Language(s) | Contribution |
+  | Project | Description | Main Language | Contribution |
   | - | - | - | - |
-  | <a href='https://github.com/EternalQuasar0206/asp-image-converter'>Asp Image Converter</a> | Rest API example for real-time image conversion from "base64" codes. | 🟢 C# | Programmer/Creator |
+  | <a href='https://github.com/EternalQuasar0206/asp-image-converter'>Asp Image Converter</a> | Rest API example for real-time image conversion from "base64" codes | 🟢 C# | Programmer/Creator |
   | <a href='https://github.com/EternalQuasar0206/recursive-comparator'>Recursive Comparator</a> | Fast optimized algorithm to compare two variables of any type | 🟡 JavaScript | Programmer/Creator |
 </div>
 
