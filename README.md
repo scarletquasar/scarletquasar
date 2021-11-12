@@ -6,10 +6,6 @@ I'm a software engineer, solutions researcher, algorithms enthusiast and Open So
     
   </p>
   
-  <p>
-  You can find me in my <a href='https://www.linkedin.com/in/kayky-vitor-cruz/'>LinkedIn</a>.
-  </p>
-  
   **Currently i am contributing or have contributed mainly in these projects:**
   
   | Project | Description | Main Language | Contribution |
