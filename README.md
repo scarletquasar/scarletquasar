@@ -1,5 +1,5 @@
 <div align="left">
-  <h3>🌐 Greetings, i'm Kayky Vitor Cruz </h3>
+  <h3>🌐 Welcome to my profile </h3>
   <p> 
     
 I'm a software engineer, solutions researcher, algorithms enthusiast and Open Source contribuitor. Currently my main languages are C# (.NET Environment), JavaScript and TypeScript. At this moment i'm working as **Software Developer** in a automation firm with .NET MMVM (C#). I worked with Visual Basic, Visual Basic.NET, Dart (Flutter), NativeScript and others. I'm also learning Go and Java for misc purposes but i'm not limited to specific languages.
