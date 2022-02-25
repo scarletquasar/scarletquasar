@@ -8,12 +8,7 @@
 
   <h3>🧡 My main technologies</h3>
   <hr>
-  <img align="left" alt="CSharp" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="50">
-  <img align="left" alt="ASP.NET" src="https://www.prchecker.info/free-icons/128x128/asp_net_128_px.png" width="50">
+  <img align="left" alt="CSharp" src="https://www.genpac.com.br/images/c_sharp.svg" width="50">
   <img align="left" alt="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
   <img align="left" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="50">
-  <img align="left" alt="React/React Native" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" width="50">
-  <img align="left" alt="CSS" src="https://icon-library.com/images/css-icon/css-icon-12.jpg" width="50">
-  <img align="left" alt="Unity" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="50">
-  
   
