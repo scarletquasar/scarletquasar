@@ -4,7 +4,7 @@
   <h3>💜 Welcome, you can call me Vic!</h3>
   <hr>
   
-  I'm a software engineer focused in tooling, fullstack development, algorithm development and technical documentation. I am a generalist with a strong focus on .NET technologies     based on C# and I use TypeScript/JavaScript as a secondary language/superset. I am an open-source content enthusiast and I contribute building tools, boilerplates, examples and libraries for different purposes.
+  I'm a software engineer focused in tooling, web/fullstack development, algorithm development and technical documentation. I am a generalist with a strong focus on .NET technologies     based on C# and I use TypeScript/JavaScript as a secondary language/superset. I am an open-source content enthusiast and I contribute building tools, boilerplates, examples and libraries for different purposes.
 
   <h3>🧡 My main technologies</h3>
   <hr>
