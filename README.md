@@ -11,4 +11,4 @@
   <img align="left" alt="CSharp" src="https://www.genpac.com.br/images/c_sharp.svg" width="50">
   <img align="left" alt="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
   <img align="left" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="50">
-  
+  <img align="left" alt="Docker" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50">
