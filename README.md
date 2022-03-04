@@ -1,5 +1,5 @@
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&langs_count=10&layout=compact&theme=dark" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&langs_count=10&layout=compact&theme=dark&hide=java" align="right">
 
   <h3>💜 Welcome, you can call me Vic!</h3>
   <hr>
