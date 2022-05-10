@@ -15,4 +15,4 @@
   
   <br><br><br>
 
-  Did you mean: *[Recursion](https://github.com/EternalQuasar0206/EternalQuasar0206/)*
+  Did you mean: *[recursion](https://github.com/EternalQuasar0206/EternalQuasar0206/)*
