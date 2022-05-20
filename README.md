@@ -1,6 +1,6 @@
 
-  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&langs_count=12&layout=compact&theme=dark" align="right" -->
-  <img src="https://user-images.githubusercontent.com/70824102/168827672-d480a3b5-0d21-4e9e-b2e3-0a2a16a2d649.png" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&langs_count=12&layout=compact&theme=dark" align="right">
+  <!-- img src="https://user-images.githubusercontent.com/70824102/168827672-d480a3b5-0d21-4e9e-b2e3-0a2a16a2d649.png" align="right" -->
 
   <h3>💜 Welcome to my profile</h3>
   <hr>
