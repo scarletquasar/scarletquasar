@@ -4,7 +4,7 @@
 
   ## 💜 Hello, I'm Victória Rose!
   
-  I'm a **experienced software engineer** focused in the development of **tools**, **libraries**, **scalable applications** and generalist development. I've worked with a lot of tech stacks - **serverful** and **serverless**, coordinated projects and wrote technical documentation. Currently I'm building [my own JavaScript runtime](https://github.com/MelonRuntime/MelonJS) environment for academic and data handling purposes (not production-ready). Also check my [Linked In](https://www.linkedin.com/in/vict%C3%B3ria-rose-4a90b6233/) and my [dev.to](https://dev.to/victoriarose)
+  I'm a **experienced software engineer** focused in the development of **tools**, **libraries**, **scalable applications** and generalist development. I've worked with a lot of tech stacks - **serverful** and **serverless**, coordinated projects and wrote technical documentation. Currently I'm building [my own JavaScript runtime](https://github.com/MelonRuntime/MelonJS) environment for academic and data handling purposes (not production-ready). Also check my [Linked In](https://www.linkedin.com/in/vict%C3%B3ria-rose-4a90b6233/) and my [dev.to](https://dev.to/victoriarose).
   
 ### > Programming languages I've worked on
   
