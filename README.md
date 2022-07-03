@@ -2,7 +2,7 @@
  
 - Experienced software engineer focused in the development of **tools**, **libraries**, **scalable applications** and generalist development;
 - Worked with a lot of tech stacks - **serverful** and **serverless**, coordinated projects and wrote technical documentation;
-- Currently I'm working on [Melon](https://github.com/MelonRuntime/Melon), environment for making scalable and powerful applications
+- Currently I'm working on [Melon](https://github.com/MelonRuntime/Melon), runtime for making scalable and powerful applications
 
 <hr>
 
