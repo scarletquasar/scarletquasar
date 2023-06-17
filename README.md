@@ -1,4 +1,7 @@
-<h2 align="center"> 💜 Hello, I'm Victória Rose! </h2>
+#### 💻 Hello, I'm Scarlet Rose!
+> <small>A.K.A Victoria Rose</small>
+
+<hr>
  
 - Experienced software engineer focused in the development of **tools**, **libraries**, **scalable applications** and generalist development;
 - Worked with a lot of tech stacks - **serverful** and **serverless**, coordinated projects and wrote technical documentation;
