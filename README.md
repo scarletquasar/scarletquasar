@@ -1,5 +1,4 @@
 ### 💻 Hello, I'm Scarlet Rose!
-> <small>A.K.A Victoria Rose</small>
 
 <hr>
  
@@ -15,6 +14,4 @@
 | - | - | - | - |
 
 </div>
-
-
 
