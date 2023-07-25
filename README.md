@@ -1,4 +1,4 @@
-### 💻 Hello, I'm Scarlet Rose!
+### 💻 Hello, I'm Scarlet Rose.
 
 <hr>
  
