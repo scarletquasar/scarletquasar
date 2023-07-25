@@ -2,10 +2,13 @@
 
 <hr>
  
-- Experienced software engineer focused in the development of **tools**, **libraries**, **scalable applications** and generalist development;
-- Worked with a lot of tech stacks - **serverful** and **serverless**, coordinated projects and wrote technical documentation;
-- Writing [Melon](https://github.com/MelonRuntime/Melon), a JavaScript .NET runtime for making scalable and powerful applications
-- You can see my open presentation work [here](https://github.com/scarletquasar/Tech-Presentations)
+- 📚 Experienced software engineer focused in the development of tools and libraries
+- 🔗 Strong background in performance, scalable infrastructures and business driven architectures
+- 🚀 Writing [Melon](https://github.com/MelonRuntime/Melon), a JavaScript .NET runtime for making scalable and powerful applications
+
+<hr>
+
+- 📖 You can see my open presentation work [here](https://github.com/scarletquasar/Tech-Presentations)
 
 <hr>
 
