@@ -1,7 +1,8 @@
 ### 💻 Hello, I'm Scarlet Rose.
 
 <hr>
- 
+
+- ☢️ Currently working as Head Software Architect for a Radon measurement company
 - 📚 Experienced software engineer focused in the development of tools and libraries
 - 🔗 Strong background in performance, scalable infrastructures and business driven architectures
 - 🚀 Writing [Melon](https://github.com/MelonRuntime/Melon), a JavaScript .NET runtime for making scalable and powerful applications
