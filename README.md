@@ -18,6 +18,14 @@ discord = "@scarletember"
 [badges]
 currently_working = true
 available_for_hire = true
+
+[misc]
+strong_experiences = [
+ ".NET Environment (C#)",
+ "Rust",
+ "TypeScript",
+ "C++"
+]
 ```
  
 </div>
