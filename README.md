@@ -4,7 +4,9 @@
 
 <hr>
 <div>📚 Experienced software engineer focused in the development of tools and libraries</div>
+<br>
 <div>🔗 Strong background in performance, scalable infrastructures and business driven architectures</div>
+<br>
 <div>
   
   🚀 Writing [Melon](https://github.com/MelonRuntime/Melon), a JavaScript .NET runtime for making scalable and powerful applications
