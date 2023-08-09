@@ -4,7 +4,8 @@
 
 <div>- 📚 Software architect and developer;
 <div>- 🔗 Strong background in performance & tooling;
-<div>- 🚀 Actively developing <a href="https://github.com/MelonRuntime/Melon">Melon</a> 
+<div>- ☕ Stack agnostic; Working with multiple technologies;
+<div>- 🚀 Actively developing <a href="https://github.com/MelonRuntime/Melon">Melon.</a> 
 
 <hr>
 
