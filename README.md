@@ -2,9 +2,9 @@
 
 ### 💻 Hello, I'm Scarlet Rose.
 
-<div>\- 📚 Software architect and developer;<\div>
-<div>\- 🔗 Strong background in performance & tooling;<\div>
-<div>\- 🚀 [Melon](https://github.com/MelonRuntime/Melon) author<\div>
+<div>- 📚 Software architect and developer;<\div>
+<div>- 🔗 Strong background in performance & tooling;<\div>
+<div>- 🚀 [Melon](https://github.com/MelonRuntime/Melon) author<\div>
   
  
 </div>
