@@ -1,6 +1,6 @@
 <img width="260" src="https://i.pinimg.com/564x/41/2a/0b/412a0bc2fcd9ff861d991fca23de8c75.jpg" align="left">
 
-### Hello, I'm Scarlet Rose.
+### Hello, I'm Scarlet Ember.
 
 <div>- 📚 Software architect and developer;
 <div>- 🔗 Strong background in performance & tooling;
@@ -11,7 +11,7 @@
 
 ```toml
 [package]
-name = "scarlet_rose"
+name = "scarlet_ember"
 email = "scarletrosetech@gmail.com"
 discord = "@scarletember"
 
