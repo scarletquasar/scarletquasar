@@ -1,4 +1,4 @@
-<img width="260" src="https://github.com/scarletquasar/scarletquasar/assets/70824102/b1c56325-ed97-41d2-8f20-cc1d384adbca" align="left">
+<img width="260" src="https://github.com/scarletquasar/scarletquasar/assets/70824102/d3ba2199-b613-407c-8a40-31d8e8dea821" align="left">
 
 ### Hello, I'm Scarlet Rose.
 
