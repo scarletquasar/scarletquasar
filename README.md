@@ -13,7 +13,7 @@
 [package]
 name = "scarlet_ember"
 email = "scarletrosetech@gmail.com"
-discord = "@scarletember"
+discord = "@emberscarlet"
 
 [badges]
 currently_working = true
