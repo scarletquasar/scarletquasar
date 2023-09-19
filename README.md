@@ -9,16 +9,13 @@
 
 <hr>
 
-```toml
-[package]
-name = "scarlet_ember"
-email = "scarletrosetech@gmail.com"
-discord = "@emberscarlet"
+Contact:
+<a href="mailto:scarletrosetech@gmail.com">
 
-[badges]
-currently_working = true
-available_for_hire = true
 ```
- 
+scarletrosetech@gmail.com
+```
+
+</a>
 </div>
 
