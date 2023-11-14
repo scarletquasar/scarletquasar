@@ -7,15 +7,14 @@
 | - |
 | 🔗 Strong background in performance & tooling |
 | ☕ Stack agnostic; Working with multiple technologies |
-| 🚀 Actively developing <a href="https://github.com/MelonRuntime/Melon">Melon</a> |
 
 <hr>
 
 #### Contact:
 <a href="mailto:scarletrosetech@gmail.com">
 
-| ✉️ scarletrosetech@gmail.com |
-| - |
+| ✉️ scarletrosetech@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/scarletrose/) |
+| - | - |
 
 </a>
 </div>
