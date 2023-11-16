@@ -1,7 +1,5 @@
 <div align="center">
-<img width="350" src="https://github.com/scarletquasar/scarletquasar/assets/70824102/6df9d694-6c72-43bb-9869-264070503cc3">
-
-### Hello, I'm Scarlet Ember.
+### Hello, I'm Scarlet Victoria.
 
 | 📚 Software architect and developer |
 | - |
