@@ -1,6 +1,6 @@
 ### Hello, I'm Scarlet Victoria.
 
-Senior software engineering consultant, architect, management expert and content creator. Specialized in .NET and Node.js based technologies. Activelly interested in the open-source community and always creating new projects or helping. You can find my work or get in touch through my links and social media.
+I'm a curious software developer with 7+ years of experience. I'm a person focused on learning at every interaction and expanding my skillset at every opportunity, I also like to write articles, produce content, participate on technical conversations, present lectures and contribute to the open source community. I'm an enthusiast about the best of what modern technologies can offer and like to participate and code.
 
-| [LinkedIn](https://www.linkedin.com/in/scarletrose/) |
-| - |
+| [LinkedIn](https://www.linkedin.com/in/scarletrose/) | [dev.to](https://dev.to/scarletvictoriarose) |
+| - | - |
