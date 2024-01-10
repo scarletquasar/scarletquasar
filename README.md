@@ -7,7 +7,7 @@ I'm a software developer with 7+ years of experience. I'm a person focused on le
 
 ### Current interests
   
-    🌱 Fullstack Web development
+    🌱 Fullstack web development
     👓 Site reliability engineering
     🌳 Solutions engineering
     🚀 Systems architecture
