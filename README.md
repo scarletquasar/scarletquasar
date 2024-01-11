@@ -13,7 +13,7 @@ I'm a software developer with 7+ years of experience. I'm a person focused on le
     🚀 Systems architecture
     🚧 Cybersecurity
 
-### Currently contributing
+### Currently active repositories
 
 | Name | Description |
 | - | - |
