@@ -18,4 +18,4 @@ I'm a software developer with 7+ years of experience. I'm a person focused on le
 | Name | Description |
 | - | - |
 | <img width=125/> [sonozap](https://github.com/scarletquasar/sonozap) | 📱 Fully-featured GraphQL Whatsapp clone with real-time messaging, contacts management and authentication built on top of React and Relay. |
-| [csv-sales-loader](https://github.com/scarletquasar/csv-sales-loader) | 🗃️ Interactive sales loading simulator made to handle large amounts of CSV data with eventual consistency, pagination and mitigation strategies.  |
+| [csv-sales-loader](https://github.com/scarletquasar/csv-sales-loader) | 🗃️ Interactive sales loading solution made to handle large amounts of CSV data with eventual consistency, pagination and mitigation strategies.  |
