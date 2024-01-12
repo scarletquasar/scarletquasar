@@ -17,5 +17,6 @@ I'm a software developer with 7+ years of experience, focused on learning at eve
 
 | Name | Description |
 | - | - |
-| <img width=100/> [sonozap](https://github.com/scarletquasar/sonozap) | 📱 Fully-featured GraphQL Whatsapp clone with real-time messaging, contacts management and authentication built on top of React and Relay. |
+| <img width=120/> ||
+| [sonozap](https://github.com/scarletquasar/sonozap) | 📱 Fully-featured GraphQL Whatsapp clone with real-time messaging, contacts management and authentication built on top of React and Relay. |
 | [csv-sales-loader](https://github.com/scarletquasar/csv-sales-loader) | 🗃️ Interactive sales loading solution made to handle large amounts of CSV data with eventual consistency, pagination and mitigation strategies. Also implements Brazilian business rules for handling documents.  |
