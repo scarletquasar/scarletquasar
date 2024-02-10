@@ -1,6 +1,6 @@
 ### Hello, I'm Scarlet Victoria.
 
-I'm a software developer with 7+ years of experience, focused on learning at every interaction and expanding my skillset at every opportunity, I also like to write articles, advocate for monorepo and microservices, produce content, participate on technical conversations, present lectures and contribute to the open source community. I'm an enthusiast about the best of what modern technologies can offer and like to participate and code. I'm currently open to work.
+Software engineer and manager with 7+ years of experience, aiming to create meaningful stuff with code. Constantly digging around to find the best tools and solve problems.
 
 | [dev.to](https://dev.to/scarlet) |
 | - |
