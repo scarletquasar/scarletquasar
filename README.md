@@ -7,8 +7,8 @@ Software engineer and manager with 7+ years of experience, aiming to create mean
 
 ### Current interests
   
-    🌱 Fullstack web development
-    👓 Site reliability engineering
-    🌳 Solutions engineering
+    🌱 Product growing & leadership
+    👓 Web development
+    🌳 Reliability engineering
     🚀 Systems architecture
     🚧 Cybersecurity
