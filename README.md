@@ -7,7 +7,7 @@ Software engineer and manager with 7+ years of experience, aiming to create mean
 
 ### Current interests
   
-    🌱 Product growing & leadership
+    🌱 Product growth & leadership
     👓 Web development
     🌳 Reliability engineering
     🚀 Systems architecture
