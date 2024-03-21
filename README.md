@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Scarlet Victoria Rose
 
-<img align="right" height="450" src="https://media0.giphy.com/media/l0NwPdduX7IL1rS1i/giphy.gif?cid=6c09b952fsvcphrfc5py15lbr7nhehpq5v3scsznzetwd7pn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+<img align="right" height="350" src="https://media0.giphy.com/media/l0NwPdduX7IL1rS1i/giphy.gif?cid=6c09b952fsvcphrfc5py15lbr7nhehpq5v3scsznzetwd7pn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 
 Sou software engineer com mais de sete anos de experiência em desenvolvimento de soluções tecnológicas, design de sistemas e liderança. Atualmente trabalho como desenvolvedora de software sênior e technical leader no Itaú Unibanco criando soluções em software e discovery de dados para o time de consórcio.
 
