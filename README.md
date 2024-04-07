@@ -1,5 +1,4 @@
-### 👋 Olá, meu nome é Scarlet Victoria Rose
-
+### 👋 Olá, me chamo Raven
 Sou software engineer com mais de sete anos de experiência em desenvolvimento de soluções tecnológicas, design de sistemas e liderança. Atualmente trabalho como desenvolvedora de software sênior e technical leader no Itaú Unibanco criando soluções em software e discovery de dados para o time de consórcio.
 
 | <a href="https://scarletrose.xyz" target="_blank">scarletrose.xyz</a> | 
