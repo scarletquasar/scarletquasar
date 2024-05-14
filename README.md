@@ -1,4 +1,4 @@
-### 👋 Hello, my name is Raven/Scarlet
+### 👋 Hello, my name is Scarlet
 I am a software engineer with more than seven years of experience in developing technological solutions, systems design and leadership. I currently work as a senior software developer and technical leader at Itaú Unibanco creating software and data discovery solutions for the consortium team.
 
 <!--
