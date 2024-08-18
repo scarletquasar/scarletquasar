@@ -15,3 +15,7 @@ Linguagens de Programação:
 - Rust: Conhecimento na construção de sistemas e aplicativos de alto desempenho.
 - Go (Golang): Habilidade em desenvolver aplicações escaláveis e eficientes para back-end.
 - Python: Experiência com scripting, automação e desenvolvimento web.
+
+### ✨ **Onde me encontrar**
+
+Atualmente, escrevo artigos no [dev.to](https://dev.to/scarlet) e no twitter (@scarletrosedev).
