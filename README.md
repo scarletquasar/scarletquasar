@@ -18,4 +18,4 @@ Linguagens de Programação:
 
 ### ✨ **Onde me encontrar**
 
-Atualmente, escrevo artigos no [dev.to](https://dev.to/scarlet) e no twitter (@scarletrosedev).
+Atualmente, escrevo artigos no [dev.to](https://dev.to/scarlet). Também é possível me encontrar no [LinkedIn](https://br.linkedin.com/in/scarletrose) e no twitter (@scarletrosedev).
