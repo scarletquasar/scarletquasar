@@ -2,7 +2,7 @@
 
 ### **🌟 Sobre Mim**
 
-Sou uma desenvolvedora de software com mais de 7 anos de experiência acumulada tanto no cenário nacional quanto internacional. Minha jornada profissional me proporcionou a oportunidade de trabalhar com uma ampla gama de tecnologias, e ao longo desse tempo, me especializei em liderar equipes e projetos desafiadores. Produzo conteúdo educativo e informativo, incluindo artigos e vídeos que abordam tópicos de programação, estratégias de carreira e insights sobre o cotidiano tecnológico.
+Sou uma desenvolvedora de software com mais de 7 anos de experiência acumulada tanto no cenário nacional quanto internacional e atualmente trabalho no **Itaú Unibanco**. Minha jornada profissional me proporcionou a oportunidade de trabalhar com uma ampla gama de tecnologias, e ao longo desse tempo, me especializei em liderar equipes e projetos desafiadores. Produzo conteúdo educativo e informativo, incluindo artigos e vídeos que abordam tópicos de programação, estratégias de carreira e insights sobre o cotidiano tecnológico.
 
 ### 🚀 **Minhas Skills**
 
