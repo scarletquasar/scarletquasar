@@ -39,4 +39,4 @@ Currently, I work as a Senior Software Developer, focusing on the development an
 I have also worked as an SRE and DevOps, with relevant technical skills in AWS, Azure Cloud, and Google Cloud.
 
 ✨ Where to Find Me
-I currently write articles on dev.to. You can also find me on LinkedIn and on Twitter (@scarletrosedev).
+I currently write articles on [dev.to](https://dev.to/scarlet). You can also find me on [LinkedIn](https://br.linkedin.com/in/scarletrose) and on Twitter (@scarletrosedev).
