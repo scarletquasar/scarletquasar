@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 
-I’m a software developer with over 7 years of experience accumulated both nationally and internationally, and I currently work at Itaú Unibanco. My professional journey has provided me with the opportunity to work with a wide range of technologies, and over time, I’ve specialized in leading teams and challenging projects. I create educational and informative content, including articles and videos that cover programming topics, career strategies, and insights into the tech world.
+I’m a software developer with over 8 years of experience accumulated both nationally and internationally, and I currently work at Itaú Unibanco. My professional journey has provided me with the opportunity to work with a wide range of technologies, and over time, I’ve specialized in leading teams and challenging projects. I create educational and informative content, including articles and videos that cover programming topics, career strategies, and insights into the tech world.
 
 ### 🚀 My Skills
 
