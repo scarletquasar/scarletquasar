@@ -4,4 +4,4 @@ I am an experienced developer specialized in .NET technologies with relevance on
 
 I also have advanced experience with AWS services and cloud development - including DevOPS best practices and knowledge about SRE and software architecture. I can use other cloud providers such as Google Cloud and Azure with decent proficiency and easily adapt to different development environments and styles. Together with my cloud development experience, I have advanced proficiency in Docker, Kubernetes, OpenShift and can perform decently in other orchestration/containerization providers.
 
-Read my posts in [scarletrose.xyz](scarletrose.xyz) (in development)
+Read my posts in [scarletrose.xyz](https://scarletrose.xyz) (in development)
