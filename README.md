@@ -1,20 +1,4 @@
-<h1>Hello, I’m Scarlet Rose 👋</h1>
-
-### 🌟 About Me
-
-I’m a software developer with over 8 years of experience accumulated both nationally and internationally, and I currently work at Itaú Unibanco. My professional journey has provided me with the opportunity to work with a wide range of technologies, and over time, I’ve specialized in leading teams and challenging projects. I create educational and informative content, including articles and videos that cover programming topics, career strategies, and insights into the tech world.
-
-### 🚀 My Skills
-
-Currently, I work as a Senior Software Developer, focusing on the development and maintenance of critical systems for the financial sector. Among my technical skills, the following programming languages stand out:
-
-- JavaScript: Solid experience in developing web applications for both front-end and back-end.
-- C#: Building robust applications in the .NET environment.
-- Rust: Knowledge in building high-performance systems and applications.
-- Go (Golang): Skill in developing scalable and efficient back-end applications.
-- Python: Experience with scripting, automation, and web development.
-
-I have also worked as an SRE and DevOps, with relevant technical skills in AWS, Azure Cloud, and Google Cloud.
+Hello, I am Scarlet. I am an experienced developer specialized in .NET technologies with relevance on web backend and mobile/desktop/web frontend. Between the stacks that I already have worked on, I can highlight ASP.NET, MAUI (mobile and desktop development), WPF, Windows Forms. In the past I have also worked with Unity, MonoDevelop and other old .NET technologies such as .NET Framework applications and a sort of old libraries like Crystal Reports. My first programming language is C# but I also work with all the other .NET Ecosystem languages including Draco and JavaScript (mostly with NodeJS or frontend development, including modern frameworks). 
 
 ### ✨ Where to find me
 
