@@ -1,4 +1,4 @@
-Hello, I am Scarlet. 
+Hello, I am Scarlet Victoria Rose. 
 
 I am an experienced developer specialized in .NET technologies with relevance on web backend and mobile/desktop/web frontend. I also study machine learning and develop personal and scientific projects.
 
