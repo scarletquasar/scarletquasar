@@ -1,5 +1,5 @@
 Hello, I am Scarlet Victoria Rose. 
 
-I am an experienced developer specialized in .NET technologies with relevance on web backend and mobile/desktop/web frontend. I also study machine learning and develop personal and scientific projects.
+Software Engineer with 8+ years of experience, speaker or English, Portuguese, Japanese and Libras, with hands deep on technology and people and strong experience in developing meaningful solutions that are beyond the code. Currently, I write about tech and how to optimize technical solutions by empowering people and creativity and communicating better, turning the business and tech into one thing and obtaining the best results.
 
 Read my posts in [scarletrose.xyz](https://scarletrose.xyz) (in development)
