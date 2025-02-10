@@ -1,4 +1,4 @@
-<img align="left" width="35%" src="https://i.pinimg.com/originals/f9/70/ae/f970ae10cccbf84d584b5480cfd1ebc5.gif">
+<img align="left" width="40%" src="https://i.pinimg.com/originals/f9/70/ae/f970ae10cccbf84d584b5480cfd1ebc5.gif">
 
 Hello, I am Scarlet Victoria Rose. 
 
