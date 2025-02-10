@@ -5,4 +5,4 @@ Software Engineer with 8+ years of experience, speaker of English, Portuguese, J
 | [My posts (portuguese)](https://dev.to/scarlet) | **Books that I've read** | **Personal Projects** |
 | - | - | - |
 
-
+<img width="100%" src="https://i.pinimg.com/originals/f9/70/ae/f970ae10cccbf84d584b5480cfd1ebc5.gif">
