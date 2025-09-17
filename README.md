@@ -8,5 +8,5 @@ Currently trying to develop meaningful solutions at [Growly Group](https://growl
 
 - [MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - Experimental JavaScript runtime that runs on top of .NET created to rapidly prototype projects
 - [c-moon](https://github.com/scarletquasar/c-moon) - Developing a voice/visual assistant to run at home and help me in daily tasks
-
+- [DotnetFetch](https://github.com/scarletquasar/DotnetFetch) - Old project that aimed to implement JavaScript `fetch` in .NET
 
