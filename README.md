@@ -1,9 +1,10 @@
-Hello, I am Scarlet Victoria Rose. 
+# ScarletQuasar 🐸
 
-Software Engineer with 9+ years of experience, speaker of English, Portuguese, Japanese and Libras, with hands deep on technology and people and strong experience in developing meaningful solutions that are beyond the code. Currently, I write about tech and how to optimize technical solutions by empowering people and creativity and communicating better, turning the business and tech into one thing and obtaining the best results.
+I like open source, software engineering, devops, self-hosted infrastructure and I want to do cosplay in the future.
 
-| [My posts (portuguese)](https://dev.to/scarlet) |
-| - |
+Currently working in solutions at [Growly Group](https://growly-group.xyz/)
+
+
 
 
 
