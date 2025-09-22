@@ -2,6 +2,7 @@
 
 I like open source, SaaS development, software engineering, devops, self-hosted infrastructure, Kasane Teto and I want to do cosplay in the future.
 
+You can see my website at [https://scarletrose.xyz/](https://scarletrose.xyz/)
 Currently trying to develop meaningful solutions at [Growly Group](https://growly-group.xyz/)
 
 ## Some projects
