@@ -1,3 +1,5 @@
+<img src="https://cdn.meadd.com/title/full/3158695.jpg" />
+
 # ScarletQuasar 🐸
 
 I like open source, SaaS development, software engineering, devops, self-hosted infrastructure, Kasane Teto and I want to do cosplay in the future.
