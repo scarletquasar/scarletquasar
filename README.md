@@ -1,5 +1,5 @@
 <div align="center" />
-<img src="https://wallpapercave.com/wp/wp9555537.jpg" width="50%" />
+<img src="https://cdn.wallpapersafari.com/22/76/YADBIH.jpg" width="50%" />
 </div>
 
 # ScarletQuasar 🐸
