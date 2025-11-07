@@ -1,4 +1,6 @@
-<img src="https://wallpapercave.com/wp/wp9555537.jpg" />
+<div align="center" />
+<img src="https://wallpapercave.com/wp/wp9555537.jpg" width="50%" />
+</div>
 
 # ScarletQuasar 🐸
 
